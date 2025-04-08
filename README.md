@@ -65,7 +65,7 @@ Step 6: Done : Now continue to importing the project. [Don't share the above pas
 
 Step 1: Open Eclipse Enterprise Edition. [Install, if not already installed.]
 
-Step 2: Click On File > Import > Git > Projects From Git > Clone Uri > Paste The Repository Url as: ```https://github.com/shashirajraja/shopping-cart.git```> Select master Branch > Next > Next > Finish.
+Step 2: Click On File > Import > Git > Projects From Git > Clone Uri > Paste The Repository Url as: ```https://github.com/Yashoda84/shopping-cart.git```> Select master Branch > Next > Next > Finish.
 
 Step 3: Go inside ```Java Resources > src > application.properties``` and update the values as below:
 - a) Update value for db.username and db.password according to your installed mysql credentials.
@@ -92,7 +92,7 @@ Step 9:  [To Change the Port, if getting error like 'port already in use'] Open 
 
 Step 10: Default Username And Password For Admin Is "admin@gmail.com" And "admin"
 
-Step 11: The default Username And Password For User Is "guest@gmail.com" And "guest"
+Step 11: The default Username And Password For User Is gautamanu7411@gmail.com" And "guest"
 
 ## FAQ
 **Question:1** Unable to Connect to Database?
